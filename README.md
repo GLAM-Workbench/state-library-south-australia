@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3549569.svg)](https://doi.org/10.5281/zenodo.3549569)
+
 # State Library of South Australia
 
 Jupyter notebooks to work with data from the State Library of South Australia.
