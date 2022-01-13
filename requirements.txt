@@ -1,4 +1,4 @@
 jupyter
-Pillow==6.0.0
+Pillow==9.0.0
 python-slugify==3.0.2
 requests==2.22.0
